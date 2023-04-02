@@ -1,0 +1,20 @@
+.formt {
+    display: block;
+    width: 350px;
+    height: 350px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.306);
+    border-radius: 10px;
+    text-align: center;
+    background: linear-gradient(90deg, yellow, white);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px 50px;
+    margin: auto;
+}
+
+.trainerdashboard {
+    text-align: center;
+}
+
+.formt input {
+    margin: 10px 10px;
+}

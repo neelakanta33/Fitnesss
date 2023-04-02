@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "username": "sonu",
+      "email": "sonu@gmail.com",
+      "password": "123",
+      "age": "22",
+      "gender": "male",
+      "id": 1,
+      "bmi": 32.24,
+      "health": "Obese Class I",
+      "workouts": [
+        {
+          "bodyPart": "waist",
+          "equipment": "body weight",
+          "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0001.gif",
+          "id": "0001",
+          "name": "3/4 sit-up",
+          "target": "abs"
+        }
+      ]
+    },
+    {
+      "username": "tom",
+      "email": "tom@gmail.com",
+      "password": "145",
+      "age": "23",
+      "gender": "male",
+      "id": 2,
+      "bmi": 32.73,
+      "health": "Obese Class I",
+      "workouts": [
+        {
+          "bodyPart": "waist",
+          "equipment": "body weight",
+          "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0001.gif",
+          "id": "0001",
+          "name": "3/4 sit-up",
+          "target": "abs"
+        }
+      ]
+    }
+  ],
+  "trainer": [
+    {
+      "username": "rock",
+      "email": "rock@gmail.com",
+      "password": "888",
+      "age": "22",
+      "gender": "male",
+      "id": 3
+    }
+  ],
+  "workouts": [
+    {
+      "bodyPart": "ww",
+      "equipment": "ww",
+      "gifUrl": "https://www.google.com/search?q=gif+url&oq=gif+url&aqs=chrome..69i57l2j69i59j69i60.2459j0j7&sourceid=chrome&ie=UTF-8",
+      "name": "ww",
+      "target": "ww",
+      "id": 1
+    },
+    {
+      "bodyPart": "ww",
+      "equipment": "ww",
+      "gifUrl": "https://www.google.com/search?q=gif+url&oq=gif+url&aqs=chrome..69i57l2j69i59j69i60.2459j0j7&sourceid=chrome&ie=UTF-8",
+      "name": "ww",
+      "target": "ww",
+      "id": 2
+    }
+  ]
+}
